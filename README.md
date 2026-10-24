@@ -1,16 +1,15 @@
-## Hi there 👋
+![SaneHajiha banner](https://raw.githubusercontent.com/SaneHajiha/sanequeue/master/docs/images/banner.jpg)
 
-<!--
-**SaneHajiha/SaneHajiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SaneHajiha
 
-Here are some ideas to get you started:
+Open-source VoIP & Contact Center Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical tools for Asterisk-based contact centers, with a focus on clear Persian/English interfaces, scoped access and efficient monitoring.
+
+### SaneQueue
+
+An open-source queue operations dashboard based on QPanel: live queues, agent presence, supervised controls and bilingual documentation.
+
+[Explore SaneQueue](https://github.com/SaneHajiha/sanequeue) · [راهنمای فارسی](https://github.com/SaneHajiha/sanequeue/blob/master/README.fa.md)
+
+Current work: reliable monitoring, driver compatibility and documented validation. Historical reporting is the next phase.
